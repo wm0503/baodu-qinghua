@@ -8,10 +8,10 @@
   
 3.所有bert类模型均采用12层网络结构，15轮训练，故耗时较长
 
-4.bert类模型训练的相关代码均保存在【bert+/nn_pipline】下
+4.bert类模型训练的相关代码均保存在【nn_pipline】目录下
 
 5.最终形成的模型效果对比文件命名为：【bert+模型效果对比.csv】，以与非bert类模型区分
 
-    保存在【bert+/nn_pipline/bert+_layer12_epoch15_output_2023_09_24_02_16】下
+    保存在【bert+_layer12_epoch15_output_2023_09_24_02_16】目录下
   
 6.由于各个模型参数文件太大，不好上传，故只上传相关代码和最终形成的【bert+模型效果对比.csv】文件
